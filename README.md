@@ -1,6 +1,6 @@
-# Proiect Validare Username - Sesiunea 6
+# Proiect Validare Username - Sesiunea 7
 
-Acesta este proiectul final pentru sesiunea de curs numărul 6. 
+Acesta este proiectul final pentru sesiunea de curs numărul 7. 
 Programul verifică dacă un username introdus de utilizator respectă regulile de securitate.
 
 ### Reguli de validare:
